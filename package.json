@@ -37,6 +37,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
+    "@stdlib/array-base-arraylike2object": "^0.0.x",
     "@stdlib/assert-is-collection": "^0.0.x",
     "@stdlib/assert-is-function": "^0.0.x",
     "@stdlib/symbol-iterator": "^0.0.x",
@@ -44,9 +45,13 @@
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.0.x"
   },
   "devDependencies": {
+    "@stdlib/array-complex64": "^0.0.x",
     "@stdlib/array-float64": "^0.0.x",
     "@stdlib/assert-is-iterator-like": "^0.0.x",
     "@stdlib/bench": "^0.0.x",
+    "@stdlib/complex-float32": "^0.0.x",
+    "@stdlib/complex-imagf": "^0.0.x",
+    "@stdlib/complex-realf": "^0.0.x",
     "@stdlib/math-base-assert-is-nan": "^0.0.x",
     "@stdlib/random-base-randu": "^0.0.x",
     "@stdlib/utils-inmap": "^0.0.x",
